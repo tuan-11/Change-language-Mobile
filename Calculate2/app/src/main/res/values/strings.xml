@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">20110595_TranQuocTuan</string>
+    <string name="inputA">Input A</string>
+    <string name="inputB">Input B</string>
+    <string name="sum">A + B</string>
+    <string name="calculate">Calculate A + B</string>
+</resources>
